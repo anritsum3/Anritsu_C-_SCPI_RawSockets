@@ -1,4 +1,4 @@
-# Anritsu SCPI RawSockets C++ SCPI Commands example solutions
+# Anritsu SCPI RawSockets C++ SCPI Commands example  
 
 ## 1.Overview
 Anritsu SCPI RawSockets C++ Commands are SCPI based solutions which run with Anritsu Instruments.
